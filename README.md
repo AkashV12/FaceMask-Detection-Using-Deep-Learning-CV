@@ -17,3 +17,6 @@ The importance of using face coverings in public is illustrated in the graphic s
 By looking all the models in our project most of the models gives us the best accuracy and model loss like its almost gives 98% accuracy and low model loss.By looking this kind of model performance which means our preprocessing steps helps to increase the model performance. So we said that it gonna be predict the future data approximatley good only. which means if any new data and future data comes to our model we said that its Our model predict approximately.
 
 Thank You.....
+* NOTE:I'm using Haarcascades, Face Mask Detection ~12K Images Dataset. Unable to attached the data file beacuase of the data size is almost 700 mega bites. it contains 12,000 images. So ill mention the kaggle dataset link: 
+* scrapped the images from google as well as from the CelebFace dataset created by Jessica Li (https://www.kaggle.com/jessicali9530)
+* The data is from: https://github.com/opencv/opencv/tree/master/data/haarcascades, included here for easy usage with OpenCV from Kaggle Kernels.
